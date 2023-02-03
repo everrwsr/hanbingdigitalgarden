@@ -3,7 +3,7 @@
 ---
 
 选中项目pom.xml文件，右键选择打开settings.xml配置
-[[03evermemo/02code/javaweb/09javaweb 's knowledge 的一些目录含义\|09javaweb 's knowledge 的一些目录含义]]
+[[03evermemo/02code/javaweb/09java web 's knowledge 的一些目录含义\|09java web 's knowledge 的一些目录含义]]
 详情见下面的总和文章
 
 [[03evermemo/02code/javaweb/01howtosetjavaweb env关于JAVAweb环境配置的汇总 为刘某，许某，李某等朋友而作，主要是刘某，问某应该不需要,问某后来告诉我，她怎么不需要啦\|01howtosetjavaweb env关于JAVAweb环境配置的汇总 为刘某，许某，李某等朋友而作，主要是刘某，问某应该不需要,问某后来告诉我，她怎么不需要啦]]

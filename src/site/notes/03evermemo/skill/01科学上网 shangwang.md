@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/skill/01-shangwang/"}
+{"dg-publish":true,"permalink":"/03evermemo/skill/01-shangwang/","dgPassFrontmatter":true}
 ---
 
 

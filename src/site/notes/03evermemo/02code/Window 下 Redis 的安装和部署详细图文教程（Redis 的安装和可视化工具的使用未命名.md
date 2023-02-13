@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/window-redis-redis/"}
+{"dg-publish":true,"permalink":"/03evermemo/02code/window-redis-redis/","dgPassFrontmatter":true}
 ---
 
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [blog.csdn.net](https://blog.csdn.net/weixin_44893902/article/details/123087435)

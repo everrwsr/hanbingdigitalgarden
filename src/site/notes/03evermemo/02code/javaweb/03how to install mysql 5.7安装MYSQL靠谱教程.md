@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/03how-to-install-mysql-5-7-mysql/"}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/03how-to-install-mysql-5-7-mysql/","dgPassFrontmatter":true}
 ---
 
 

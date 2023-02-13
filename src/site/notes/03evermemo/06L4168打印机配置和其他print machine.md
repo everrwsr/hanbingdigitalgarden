@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/06-l4168-print-machine/"}
+{"dg-publish":true,"permalink":"/03evermemo/06-l4168-print-machine/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/page-context-request-context-path/"}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/page-context-request-context-path/","dgPassFrontmatter":true}
 ---
 
 

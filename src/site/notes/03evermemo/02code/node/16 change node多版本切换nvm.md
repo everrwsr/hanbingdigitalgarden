@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/node/16-change-node-nvm/"}
+{"dg-publish":true,"permalink":"/03evermemo/02code/node/16-change-node-nvm/","dgPassFrontmatter":true}
 ---
 
 npm

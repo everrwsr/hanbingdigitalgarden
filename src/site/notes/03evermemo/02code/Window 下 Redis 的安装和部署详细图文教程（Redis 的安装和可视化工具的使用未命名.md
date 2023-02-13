@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/window-redis-redis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03evermemo/02code/Window 下 Redis 的安装和部署详细图文教程（Redis 的安装和可视化工具的使用未命名/","dgPassFrontmatter":true}
 ---
 
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [blog.csdn.net](https://blog.csdn.net/weixin_44893902/article/details/123087435)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/02how-to-convert-sql-to-word-in-common-word/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/02how to convert sql to word in common word转化为数据库设计文档表格的办法/","dgPassFrontmatter":true}
 ---
 
 

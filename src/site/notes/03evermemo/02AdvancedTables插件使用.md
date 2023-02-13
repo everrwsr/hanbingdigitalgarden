@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02-advanced-tables/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03evermemo/02AdvancedTables插件使用/","dgPassFrontmatter":true}
 ---
 
 

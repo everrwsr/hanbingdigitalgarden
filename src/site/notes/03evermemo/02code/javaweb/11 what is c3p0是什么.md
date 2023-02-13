@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/11-what-is-c3p0/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/11 what is c3p0是什么/","dgPassFrontmatter":true}
 ---
 
 1.c3p0是什么？

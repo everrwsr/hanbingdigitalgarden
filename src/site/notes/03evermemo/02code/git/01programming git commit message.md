@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/git/01programming-git-commit-message/"}
+{"dg-publish":true,"permalink":"/03evermemo/02code/git/01programming-git-commit-message/","dgPassFrontmatter":true}
 ---
 
 

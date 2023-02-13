@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02-advanced-tables/"}
+{"dg-publish":true,"permalink":"/03evermemo/02-advanced-tables/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/05how-to-use-idea-import-eclipse-project-which-about-javaweb-idea-eclipse-javaweb/"}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/05how-to-use-idea-import-eclipse-project-which-about-javaweb-idea-eclipse-javaweb/","dgPassFrontmatter":true}
 ---
 
 #idea

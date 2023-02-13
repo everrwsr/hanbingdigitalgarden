@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/advice/simple-steps-for-managing-holiday-loneliness/"}
+{"dg-publish":true,"permalink":"/03evermemo/advice/simple-steps-for-managing-holiday-loneliness/","dgPassFrontmatter":true}
 ---
 
 

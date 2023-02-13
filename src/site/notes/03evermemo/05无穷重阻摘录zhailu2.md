@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/05-zhailu2/"}
+{"dg-publish":true,"permalink":"/03evermemo/05-zhailu2/","dgPassFrontmatter":true}
 ---
 
 

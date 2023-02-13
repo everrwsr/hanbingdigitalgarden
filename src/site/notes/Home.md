@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
-
-
-
 
 
 ## Dairy Inspection
@@ -16,11 +13,16 @@
 
 ## Work
 
-- [ ] 个人导航网站体系的完善思考
+- [x] 个人导航网站体系的完善思考 ✅ 2023-02-11
 - [ ] javaweb
+- [ ] 复习
+- [ ] 
 ​
-​[[个人任务\|个人任务]]
+
+[[03evermemo/someidea/202301260058事不过三的一点感想\|202301260058事不过三的一点感想]]
 
 
+
+## Task
 
 

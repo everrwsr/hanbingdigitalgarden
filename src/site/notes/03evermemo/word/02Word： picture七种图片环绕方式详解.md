@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/word/02-word-picture/"}
+{"dg-publish":true,"permalink":"/03evermemo/word/02-word-picture/","dgPassFrontmatter":true}
 ---
 
 

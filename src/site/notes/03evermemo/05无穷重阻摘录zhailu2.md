@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/05-zhailu2/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03evermemo/05无穷重阻摘录zhailu2/","dgPassFrontmatter":true}
 ---
 
 

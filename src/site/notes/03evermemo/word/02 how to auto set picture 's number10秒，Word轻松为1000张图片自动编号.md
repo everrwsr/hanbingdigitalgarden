@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/word/02-how-to-auto-set-picture-s-number10-word-1000/"}
+{"dg-publish":true,"permalink":"/03evermemo/word/02-how-to-auto-set-picture-s-number10-word-1000/","dgPassFrontmatter":true}
 ---
 
 

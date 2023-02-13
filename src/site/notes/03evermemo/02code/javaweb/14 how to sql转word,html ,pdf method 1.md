@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/14-how-to-sql-word-html-pdf-method-1/"}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/14-how-to-sql-word-html-pdf-method-1/","dgPassFrontmatter":true}
 ---
 
 

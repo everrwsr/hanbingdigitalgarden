@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"xinbanjiaowu新版教务","permalink":"/03evermemo/new-xaufe/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"xinbanjiaowu新版教务","permalink":"/03evermemo/新版教务 new xaufe/","dgPassFrontmatter":true}
 ---
 
 

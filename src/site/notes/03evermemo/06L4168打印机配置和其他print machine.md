@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/06-l4168-print-machine/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03evermemo/06L4168打印机配置和其他print machine/","dgPassFrontmatter":true}
 ---
 
 

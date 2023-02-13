@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/09java-web-s-knowledge/"}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/09java-web-s-knowledge/","dgPassFrontmatter":true}
 ---
 
 [[03evermemo/02code/javaweb/08 how to start javaweb project tutorial 项目配置教程\|08 how to start javaweb project tutorial 项目配置教程]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/heima/mybatis-introduce/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/heima/mybatis introduce 介绍/","dgPassFrontmatter":true}
 ---
 
 #javaweb 

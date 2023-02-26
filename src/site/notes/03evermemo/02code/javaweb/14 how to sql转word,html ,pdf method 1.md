@@ -15,7 +15,7 @@
 
 #javaweb 
 #数据库 
-1.第一种 SQL
+## 1.第一种 SQL
 
 ```sql
 SELECT COLUMN_NAME 列名,COLUMN_TYPE 数据类型,DATA_TYPE 字段类型,CHARACTER_MAXIMUM_LENGTH 长度,IS_NULLABLE 是否为空,COLUMN_DEFAULT 默认值,COLUMN_COMMENT 备注 FROM INFORMATION_SCHEMA.COLUMNS where table_schema ='数据库名' AND table_name  = '表名'
@@ -27,7 +27,7 @@ OK，然后复制粘贴，成功。但是样式不敢保证，并且很多张表
 
 在介绍一下PDMan生成Word，DBExportDoc V1.0 For MySQL这个会在后面的文章会写到，因为配置比价复杂，后续再详谈
 
-2.PDman  
+## 2.PDman  
 （1）现在地址 http://www.pdman.cn/#/，然后根据提示进入到gitee  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/202007231528169.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3NzEyNjM3,size_16,color_FFFFFF,t_70)  
 （2）启动----画面整洁，爱了  
@@ -45,5 +45,5 @@ OK，然后复制粘贴，成功。但是样式不敢保证，并且很多张表
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200723153510711.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3NzEyNjM3,size_16,color_FFFFFF,t_70)  
 （8）点击导出文档，导出word（别的也都可以，看需要）  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200723153751971.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3NzEyNjM3,size_16,color_FFFFFF,t_70)  
-OK，完成，软件很简介，功能可很强大，反正我是爱了  
+## OK，完成，软件很简介，功能可很强大，反正我是爱了  
 有问题欢迎留言

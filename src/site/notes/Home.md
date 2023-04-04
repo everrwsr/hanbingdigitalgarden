@@ -40,18 +40,18 @@
 
 ## Recently article
 
-| File                                                                                                                                                                                | Last Modified             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[webpage/CentOS7 下安装 mysql5_7（亲测完成）_ic_xcc 的博客 - CSDN 博客\|CentOS7 下安装 mysql5_7（亲测完成）_ic_xcc 的博客 - CSDN 博客]]                                                                     | 9:56 AM - April 04, 2023  |
-| [[webpage/(8 条消息) Git 常用操作指令_NeroAsmar 的博客 - CSDN 博客_git 常用操作命令\|(8 条消息) Git 常用操作指令_NeroAsmar 的博客 - CSDN 博客_git 常用操作命令]]                                                         | 9:56 AM - April 04, 2023  |
-| [[Linux 常用命令\|Linux 常用命令]]                                                                                                                                                       | 9:56 AM - April 04, 2023  |
-| [[webpage/mysql 8_0 sql 文件转至 5_7_数据库 8_0 改成 5_7 的 sql_河上街的博客 - CSDN 博客\|mysql 8_0 sql 文件转至 5_7_数据库 8_0 改成 5_7 的 sql_河上街的博客 - CSDN 博客]]                                           | 10:21 PM - April 03, 2023 |
-| [[个人zotero配置\|个人zotero配置]]                                                                                                                                                       | 9:46 PM - April 03, 2023  |
-| [[webpage/【激活 Office】 Office Tool Plus 入门教程 - Yerong の小窝\|【激活 Office】 Office Tool Plus 入门教程 - Yerong の小窝]]                                                                       | 8:17 PM - April 03, 2023  |
-| [[windows 常用命令\|windows 常用命令]]                                                                                                                                                   | 8:06 PM - April 03, 2023  |
-| [[office激活\|office激活]]                                                                                                                                                           | 1:22 PM - April 03, 2023  |
-| [[webpage/使用 Office Tool Plus+KMS 部署 Office365 和 Visio 等工具_office365 部署工具_三角波动的博客 - CSDN 博客\|使用 Office Tool Plus+KMS 部署 Office365 和 Visio 等工具_office365 部署工具_三角波动的博客 - CSDN 博客]] | 12:55 PM - April 03, 2023 |
-| [[03evermemo/02code/javaweb/测试她是不是傻\|测试她是不是傻]]                                                                                                                                   | 10:22 PM - April 02, 2023 |
+| File                                                                                                                                                                                                 | Last Modified             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[01inbox/weread/你经历了什么？（脱口秀女王奥普拉&儿童精神科医生、神经科学家布鲁斯·D.佩里医生的十次深度对话+真实病患案例，用脑神经科学讲清心理问题的产生原因和疗愈方法）-奥普拉·温弗瑞\|你经历了什么？（脱口秀女王奥普拉&儿童精神科医生、神经科学家布鲁斯·D.佩里医生的十次深度对话+真实病患案例，用脑神经科学讲清心理问题的产生原因和疗愈方法）-奥普拉·温弗瑞]] | 10:13 AM - April 04, 2023 |
+| [[java 项目 瑞吉外卖\|java 项目 瑞吉外卖]]                                                                                                                                                                    | 10:12 AM - April 04, 2023 |
+| [[webpage/CentOS7 下安装 mysql5_7（亲测完成）_ic_xcc 的博客 - CSDN 博客\|CentOS7 下安装 mysql5_7（亲测完成）_ic_xcc 的博客 - CSDN 博客]]                                                                                      | 9:56 AM - April 04, 2023  |
+| [[webpage/(8 条消息) Git 常用操作指令_NeroAsmar 的博客 - CSDN 博客_git 常用操作命令\|(8 条消息) Git 常用操作指令_NeroAsmar 的博客 - CSDN 博客_git 常用操作命令]]                                                                          | 9:56 AM - April 04, 2023  |
+| [[Linux 常用命令\|Linux 常用命令]]                                                                                                                                                                        | 9:56 AM - April 04, 2023  |
+| [[webpage/mysql 8_0 sql 文件转至 5_7_数据库 8_0 改成 5_7 的 sql_河上街的博客 - CSDN 博客\|mysql 8_0 sql 文件转至 5_7_数据库 8_0 改成 5_7 的 sql_河上街的博客 - CSDN 博客]]                                                            | 10:21 PM - April 03, 2023 |
+| [[个人zotero配置\|个人zotero配置]]                                                                                                                                                                        | 9:46 PM - April 03, 2023  |
+| [[webpage/【激活 Office】 Office Tool Plus 入门教程 - Yerong の小窝\|【激活 Office】 Office Tool Plus 入门教程 - Yerong の小窝]]                                                                                        | 8:17 PM - April 03, 2023  |
+| [[windows 常用命令\|windows 常用命令]]                                                                                                                                                                    | 8:06 PM - April 03, 2023  |
+| [[office激活\|office激活]]                                                                                                                                                                            | 1:22 PM - April 03, 2023  |
 
 
 

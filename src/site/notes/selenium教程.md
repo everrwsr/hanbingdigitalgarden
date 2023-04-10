@@ -22,6 +22,13 @@ pip install  selenium==3
 参考这个教程设置好环境变量
 [python手动添加环境变量（超详细）（只适用win11/win10/win8，win7用户请绕行）\_python添加环境变量\_梦醒孤漠吃花卷的博客-CSDN博客](https://blog.csdn.net/l15668952150/article/details/124571667)
 
+
+>[!TIP]
+>设置完环境变量后必须关闭那个设置环境变量的几个窗口，然后新开一个cmd,环境变量的刷新才可以完成
+
+
+
+
 同时设置完环境变量后在cmd执行下面的代码，加速python下载包速度
 ```
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple

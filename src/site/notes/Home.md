@@ -40,18 +40,18 @@
 
 ## Recently article
 
-| File                                                                                                                                                                                                 | Last Modified             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[webpage/CentOS7 下安装 mysql5_7（亲测完成）_ic_xcc 的博客 - CSDN 博客\|CentOS7 下安装 mysql5_7（亲测完成）_ic_xcc 的博客 - CSDN 博客]]                                                                                      | 10:20 AM - April 04, 2023 |
-| [[01inbox/安装专业软件自我小技巧\|安装专业软件自我小技巧]]                                                                                                                                                              | 10:15 AM - April 04, 2023 |
-| [[windows 常用命令\|windows 常用命令]]                                                                                                                                                                    | 10:14 AM - April 04, 2023 |
-| [[01inbox/weread/你经历了什么？（脱口秀女王奥普拉&儿童精神科医生、神经科学家布鲁斯·D.佩里医生的十次深度对话+真实病患案例，用脑神经科学讲清心理问题的产生原因和疗愈方法）-奥普拉·温弗瑞\|你经历了什么？（脱口秀女王奥普拉&儿童精神科医生、神经科学家布鲁斯·D.佩里医生的十次深度对话+真实病患案例，用脑神经科学讲清心理问题的产生原因和疗愈方法）-奥普拉·温弗瑞]] | 10:13 AM - April 04, 2023 |
-| [[java 项目 瑞吉外卖\|java 项目 瑞吉外卖]]                                                                                                                                                                    | 10:12 AM - April 04, 2023 |
-| [[webpage/(8 条消息) Git 常用操作指令_NeroAsmar 的博客 - CSDN 博客_git 常用操作命令\|(8 条消息) Git 常用操作指令_NeroAsmar 的博客 - CSDN 博客_git 常用操作命令]]                                                                          | 9:56 AM - April 04, 2023  |
-| [[Linux 常用命令\|Linux 常用命令]]                                                                                                                                                                        | 9:56 AM - April 04, 2023  |
-| [[webpage/mysql 8_0 sql 文件转至 5_7_数据库 8_0 改成 5_7 的 sql_河上街的博客 - CSDN 博客\|mysql 8_0 sql 文件转至 5_7_数据库 8_0 改成 5_7 的 sql_河上街的博客 - CSDN 博客]]                                                            | 10:21 PM - April 03, 2023 |
-| [[个人zotero配置\|个人zotero配置]]                                                                                                                                                                        | 9:46 PM - April 03, 2023  |
-| [[webpage/【激活 Office】 Office Tool Plus 入门教程 - Yerong の小窝\|【激活 Office】 Office Tool Plus 入门教程 - Yerong の小窝]]                                                                                        | 8:17 PM - April 03, 2023  |
+| File                                                                                                                                                                                                                | Last Modified            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[selenium教程\|selenium教程]]                                                                                                                                                                                       | 8:23 PM - April 10, 2023 |
+| [[webpage/(1 条消息) selenium 入门超详细教程——网页自动化操作_selenium 入门教程_Yunlord 的博客 - CSDN 博客\|(1 条消息) selenium 入门超详细教程——网页自动化操作_selenium 入门教程_Yunlord 的博客 - CSDN 博客]]                                                         | 8:09 PM - April 10, 2023 |
+| [[webpage/(1 条消息) MySQL 主从复制_张三疯学独孤九剑的博客 - CSDN 博客\|(1 条消息) MySQL 主从复制_张三疯学独孤九剑的博客 - CSDN 博客]]                                                                                                                   | 7:54 PM - April 10, 2023 |
+| [[webpage/MySQL 主从复制读写分离，看这篇就够了！\|MySQL 主从复制读写分离，看这篇就够了！]]                                                                                                                                                       | 7:54 PM - April 10, 2023 |
+| [[webpage/小白都能懂的 Mysql 主从复制原理（原理 + 实操）\|小白都能懂的 Mysql 主从复制原理（原理 + 实操）]]                                                                                                                                           | 7:54 PM - April 10, 2023 |
+| [[webpage/REDCap 云服务器部署 - REDCap 安装与配置 -  REDCap club - REDCapCLUB\|REDCap 云服务器部署 - REDCap 安装与配置 -  REDCap club - REDCapCLUB]]                                                                                   | 7:51 PM - April 10, 2023 |
+| [[recap资料\|recap资料]]                                                                                                                                                                                             | 7:50 PM - April 10, 2023 |
+| [[webpage/Windows Server 部署 REDcap（四）：新增账户并设置登录验证方式 - 听言静行 Windows Server 部署 REDcap（四）：新增账户并设置登录验证方式 - 听言静行\|Windows Server 部署 REDcap（四）：新增账户并设置登录验证方式 - 听言静行 Windows Server 部署 REDcap（四）：新增账户并设置登录验证方式 - 听言静行]] | 7:50 PM - April 10, 2023 |
+| [[webpage/Windows Server 部署 REDcap（一）： 安装 XAMPP - 听言静行 Windows Server 部署 REDcap（一）： 安装 XAMPP - 听言静行\|Windows Server 部署 REDcap（一）： 安装 XAMPP - 听言静行 Windows Server 部署 REDcap（一）： 安装 XAMPP - 听言静行]]                 | 7:49 PM - April 10, 2023 |
+| [[webpage/源码、主机和域名—REDcap 安装基础设施\|源码、主机和域名—REDcap 安装基础设施]]                                                                                                                                                       | 7:46 PM - April 10, 2023 |
 
 
 

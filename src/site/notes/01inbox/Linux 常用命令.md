@@ -3,7 +3,23 @@
 ---
 
 
+```关于如何设置linux程序在后台运行的示例
+# windows
+1.下载压缩包解压
+2.复制文件中config.dev.json更改为config.json
+3.将config.json中的api_key替换为自己的
+4.双击exe运行，启动服务
 
+# linux
+$ tar xf chatgpt-web-v0.0.2-darwin-arm64.tar.gz # 解压
+$ cd chatgpt-web-v0.0.2-darwin-arm64
+$ cp config.dev.json # 根据情况调整配置文件内容
+$ ./chatgpt-web  # 直接运行
+
+# 如果要守护在后台运行
+$ nohup ./chatgpt-web &> run.log &
+$ tail -f run.log
+```
 ##  Linux系统的文件结构
 
 1.  /bin 二进制文件，系统常规命令

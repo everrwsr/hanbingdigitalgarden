@@ -15,15 +15,7 @@ https://blog.csdn.net/qq_42076902/article/details/123841422
 
 1.首先选择打开该项目
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-(https://img-blog.csdnimg.cn/5ff0b9c747cc47f69367d48c42f76793.png)
+![[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-7HMZQLkR-1648609655260)(image-20220330102852907.png)\|外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-7HMZQLkR-1648609655260)(image-20220330102852907.png)]](https://img-blog.csdnimg.cn/5ff0b9c747cc47f69367d48c42f76793.png)
 
 2.打开后会是这样的，只显示.classpath和.project的[eclipse](https://so.csdn.net/so/search?q=eclipse&spm=1001.2101.3001.7020)文件  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/946c3b53ddbd4b4593d3cd7d04ab5f52.png)

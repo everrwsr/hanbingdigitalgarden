@@ -14,25 +14,24 @@
 ## Work
 ---
 - [ ] ⏳ 2023-04-24 ⏫ 打印报销表和那个证明，去找赵老师和王刚院长问问情况
-- [ ] 牛客刷题 5道
-- [ ] javaweb
+- [ ] 继续看面经 看的很晕很奇怪，太简略了，去找书看，拿了五本书 顺便想起 李笑来的 《自学是一门手艺》 看了会
 
 ---
 
 ## Recently article
 
-| File                                                                                                                                                                                                        | Last Modified          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [[java 面试汇总\|java 面试汇总]]                                                                                                                                                                                 | 5:23 PM - May 02, 2023 |
-| [[webpage/2023 黑马程序员 Java 学习路线图 - 哔哩哔哩\|2023 黑马程序员 Java 学习路线图 - 哔哩哔哩]]                                                                                                                                   | 5:19 PM - May 02, 2023 |
-| [[Todo\|Todo]]                                                                                                                                                                                           | 5:19 PM - May 02, 2023 |
-| [[webpage/2023 最新 Java 学习路线 - 哔哩哔哩\|2023 最新 Java 学习路线 - 哔哩哔哩]]                                                                                                                                           | 5:15 PM - May 02, 2023 |
-| [[04diary/2023-05-02\|2023-05-02]]                                                                                                                                                                       | 4:52 PM - May 02, 2023 |
-| [[webpage/后端已经配置 前端还是报 cors 错误怎么回事_换一种姿势挖掘 CORS 漏洞_weixin_39878760 的博客 - CSDN 博客\|后端已经配置 前端还是报 cors 错误怎么回事_换一种姿势挖掘 CORS 漏洞_weixin_39878760 的博客 - CSDN 博客]]                                               | 3:42 PM - May 02, 2023 |
-| [[webpage/如何将个人的 GitHub 主页配置的优雅好看 _ HowToStartOpenSource\|如何将个人的 GitHub 主页配置的优雅好看 _ HowToStartOpenSource]]                                                                                               | 3:02 PM - May 02, 2023 |
-| [[webpage/yifeikong_reverse-interview-zh： 技术面试最后反问面试官的话\|yifeikong_reverse-interview-zh： 技术面试最后反问面试官的话]]                                                                                                 | 2:48 PM - May 02, 2023 |
-| [[webpage/IntelliJ-IDEA-Tutorial_keymap-introduce_md at master · judasn_IntelliJ-IDEA-Tutorial · GitHub\|IntelliJ-IDEA-Tutorial_keymap-introduce_md at master · judasn_IntelliJ-IDEA-Tutorial · GitHub]] | 2:44 PM - May 02, 2023 |
-| [[webpage/judasn_IntelliJ-IDEA-Tutorial： IntelliJ IDEA 简体中文专题教程\|judasn_IntelliJ-IDEA-Tutorial： IntelliJ IDEA 简体中文专题教程]]                                                                                 | 2:43 PM - May 02, 2023 |
+| File                                                                                                                                                | Last Modified           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[java 面试汇总\|java 面试汇总]]                                                                                                                         | 8:35 AM - May 06, 2023  |
+| [[webpage/面试被问了几百遍的 IoC 和 AOP ，还在傻傻搞不清楚？\|面试被问了几百遍的 IoC 和 AOP ，还在傻傻搞不清楚？]]                                                                       | 8:34 AM - May 06, 2023  |
+| [[springboot cache\|springboot cache]]                                                                                                           | 9:42 PM - May 05, 2023  |
+| [[未命名 1\|未命名 1]]                                                                                                                                 | 9:41 PM - May 05, 2023  |
+| [[关闭端口命令\|关闭端口命令]]                                                                                                                               | 7:32 PM - May 05, 2023  |
+| [[webpage/IDEA2022_3 最新破解激活 永久激活 亲测可用！ - 爱激活网\|IDEA2022_3 最新破解激活 永久激活 亲测可用！ - 爱激活网]]                                                             | 3:31 PM - May 05, 2023  |
+| [[webpage/IDEA PyCharm WebStorm PhpStorm Jetbrains 全家桶最新破解激活码 - 爱激活网\|IDEA PyCharm WebStorm PhpStorm Jetbrains 全家桶最新破解激活码 - 爱激活网]]               | 3:31 PM - May 05, 2023  |
+| [[02code/chatgpt相关\|chatgpt相关]]                                                                                                                  | 1:39 PM - May 05, 2023  |
+| [[webpage/使用支付宝开通 ChatGPT plus\|使用支付宝开通 ChatGPT plus]]                                                                                           | 1:21 PM - May 05, 2023  |
+| [[webpage/【Windows 命令】windows 如何结束某个端口的进程_怎么结束端口进程_江湖 one Cat 的博客 - CSDN 博客\|【Windows 命令】windows 如何结束某个端口的进程_怎么结束端口进程_江湖 one Cat 的博客 - CSDN 博客]] | 10:59 AM - May 05, 2023 |
 
 
 

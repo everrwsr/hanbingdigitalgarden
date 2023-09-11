@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"date":"2022-12-30 15:27:22","permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -12,34 +12,28 @@
 > 坚持不是从未放弃，而是现在还在做
 
 
-[[anki面试八股集合#^v5isbgu1tne\|Informally,]]
+[[03evermemo/anki面试八股集合#^v5isbgu1tne\|Informally,]]
 ## Work
 ---
 - [ ] 后续可以写一点自己的系统配置教程和常用命令
-- [ ] 牛客刷题 5道
-- [ ] 牛客刷题 5道
-- [ ] 牛客刷题 5道
-- [ ] 牛客刷题 5道
-- [ ] 牛客刷题 5道
-- [ ] 牛客刷题 5道
 
 { .block-language-dataview}
 ---
 
 ## Recently article
 
-| File                                                                                                                                         | Last Modified                |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[提问的艺术\|提问的艺术]]                                                                                                                          | 8:24 PM - September 05, 2023 |
-| [[秋招记录\|秋招记录]]                                                                                                                            | 6:59 PM - September 05, 2023 |
-| [[04diary/2023-09-05\|2023-09-05]]                                                                                                        | 6:07 PM - September 05, 2023 |
-| [[04diary/2023-09-04\|2023-09-04]]                                                                                                        | 3:29 PM - September 05, 2023 |
-| [[04diary/2023-09-03\|2023-09-03]]                                                                                                        | 3:16 PM - September 05, 2023 |
-| [[01inbox/weread/魔鬼约会学-阮琦\|魔鬼约会学-阮琦]]                                                                                                     | 3:03 PM - September 05, 2023 |
-| [[01inbox/weread/读懂恋人心  如何在未知中相爱，在懂得后相守 (〔美〕阿米尔•莱文　雷切尔•S.F.海勒) (Z-Library)-\|读懂恋人心  如何在未知中相爱，在懂得后相守 (〔美〕阿米尔•莱文　雷切尔•S.F.海勒) (Z-Library)-]] | 3:03 PM - September 05, 2023 |
-| [[webpage/1000 个已成功入职软件测试工程师简历范文模板（含真实简历）_牛客网\|1000 个已成功入职软件测试工程师简历范文模板（含真实简历）_牛客网]]                                                      | 2:31 PM - September 05, 2023 |
-| [[webpage/48 个高频面试问题，总结高分回答模板，建议收藏_牛客网\|48 个高频面试问题，总结高分回答模板，建议收藏_牛客网]]                                                                    | 2:30 PM - September 05, 2023 |
-| [[webpage/怎么写自我介绍 _ 自我介绍保姆级教学_牛客网\|怎么写自我介绍 _ 自我介绍保姆级教学_牛客网]]                                                                              | 2:19 PM - September 05, 2023 |
+| File                                               | Last Modified                |
+| -------------------------------------------------- | ---------------------------- |
+| [[考公计划\|考公计划]]                                  | 9:09 PM - September 11, 2023 |
+| [[汇总自己可以做的事情的清单\|汇总自己可以做的事情的清单]]                | 8:33 PM - September 11, 2023 |
+| [[02code/测试面经1\|测试面经1]]                         | 8:30 PM - September 11, 2023 |
+| [[03evermemo/黑盒测试和白盒测试\|黑盒测试和白盒测试]]             | 8:28 PM - September 11, 2023 |
+| [[03evermemo/我和问竟元的TCP例子\|我和问竟元的TCP例子]]         | 8:28 PM - September 11, 2023 |
+| [[03evermemo/关于恋爱的一些记录\|关于恋爱的一些记录]]             | 8:26 PM - September 11, 2023 |
+| [[03evermemo/给问竟元的WPS调整格式教程\|给问竟元的WPS调整格式教程]]   | 8:25 PM - September 11, 2023 |
+| [[02code/chatgpt zhile分享对话\|chatgpt zhile分享对话]] | 8:24 PM - September 11, 2023 |
+| [[02code/微信聊天记录导出教程\|微信聊天记录导出教程]]               | 8:24 PM - September 11, 2023 |
+| [[03evermemo/所谓告别\|所谓告别]]                       | 8:23 PM - September 11, 2023 |
 
 { .block-language-dataview}
 

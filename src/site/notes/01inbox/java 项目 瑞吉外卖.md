@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01inbox/java 项目 瑞吉外卖/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01inbox/java 项目 瑞吉外卖/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ## 技术选型

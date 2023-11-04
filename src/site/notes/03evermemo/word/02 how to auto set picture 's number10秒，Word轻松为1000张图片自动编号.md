@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/word/02 how to auto set picture 's number10秒，Word轻松为1000张图片自动编号/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/03evermemo/word/02 how to auto set picture 's number10秒，Word轻松为1000张图片自动编号/","dgPassFrontmatter":true}
 ---
 
 

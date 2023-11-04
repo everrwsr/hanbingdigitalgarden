@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02code/快捷在服务器上部署自己的springboot项目/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/02code/快捷在服务器上部署自己的springboot项目/","dgPassFrontmatter":true}
 ---
 
 # 快捷在服务器上部署自己的springboot项目

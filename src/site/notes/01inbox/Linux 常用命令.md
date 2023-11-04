@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01inbox/Linux 常用命令/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/01inbox/Linux 常用命令/","dgPassFrontmatter":true}
 ---
 
 

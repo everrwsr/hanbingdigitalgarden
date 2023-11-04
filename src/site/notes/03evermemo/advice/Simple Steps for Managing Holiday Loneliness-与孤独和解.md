@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/advice/Simple Steps for Managing Holiday Loneliness-与孤独和解/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/03evermemo/advice/Simple Steps for Managing Holiday Loneliness-与孤独和解/","dgPassFrontmatter":true}
 ---
 
 

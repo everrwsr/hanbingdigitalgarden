@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01inbox/selenium教程/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01inbox/selenium教程/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 > 鉴于发现问某人这个大好人环境部署有点小问题，故写了一个简单的环境部署和检查教程

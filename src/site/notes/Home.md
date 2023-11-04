@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"date":"2022-12-30 15:27:22","permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## Dairy Inspection
@@ -24,6 +24,7 @@
 
 | File                                                                                              | Last Modified               |
 | ------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Home\|Home]]                                                                                 | 2:07 PM - November 04, 2023 |
 | [[02code/github图床\|github图床]]                                                                  | 1:56 PM - November 04, 2023 |
 | [[更换笔记本电池记录\|更换笔记本电池记录]]                                                                       | 1:55 PM - November 04, 2023 |
 | [[考公资源汇总网站\|考公资源汇总网站]]                                                                         | 6:46 PM - November 03, 2023 |
@@ -33,7 +34,6 @@
 | [[岗位信息表\|岗位信息表]]                                                                               | 6:45 PM - November 03, 2023 |
 | [[java面经网址\|java面经网址]]                                                                         | 6:45 PM - November 03, 2023 |
 | [[webpage/2023 年性价比机场推荐 _ 咱有钱也可以省着点花 - Kerry 的学习笔记\|2023 年性价比机场推荐 _ 咱有钱也可以省着点花 - Kerry 的学习笔记]] | 6:37 PM - November 03, 2023 |
-| [[webpage/chatGPT 提示词（内含 AIPRM 收费提示词，建议下载学习）\|chatGPT 提示词（内含 AIPRM 收费提示词，建议下载学习）]]             | 6:31 PM - November 03, 2023 |
 
 { .block-language-dataview}
 

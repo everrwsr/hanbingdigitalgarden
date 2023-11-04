@@ -1,5 +1,5 @@
 ---
-{"doc_type":"weread-highlights-reviews","bookId":"CB_GV4BVOBVG5Kt6fT6gWEJ14sb","author":"奥普拉·温弗瑞","cover":"https://res.weread.qq.com/wrepub/CB_8bWFnSFpf17c6eK6ce3yYAZm_parsecover","reviewCount":1,"noteCount":164,"isbn":null,"category":null,"lastReadDate":"2023-03-29","titile":null,"dg-publish":true,"permalink":"/01inbox/weread/你经历了什么？（脱口秀女王奥普拉&儿童精神科医生、神经科学家布鲁斯·D.佩里医生的十次深度对话+真实病患案例，用脑神经科学讲清心理问题的产生原因和疗愈方法）-奥普拉·温弗瑞/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"doc_type":"weread-highlights-reviews","bookId":"CB_GV4BVOBVG5Kt6fT6gWEJ14sb","author":"奥普拉·温弗瑞","cover":"https://res.weread.qq.com/wrepub/CB_8bWFnSFpf17c6eK6ce3yYAZm_parsecover","reviewCount":1,"noteCount":164,"isbn":null,"category":null,"lastReadDate":"2023-03-29","titile":null,"dg-publish":true,"permalink":"/01inbox/weread/你经历了什么？（脱口秀女王奥普拉&儿童精神科医生、神经科学家布鲁斯·D.佩里医生的十次深度对话+真实病患案例，用脑神经科学讲清心理问题的产生原因和疗愈方法）-奥普拉·温弗瑞/","dgPassFrontmatter":true}
 ---
 
 # 元数据

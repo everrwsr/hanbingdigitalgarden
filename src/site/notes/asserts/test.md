@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/asserts/test/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/asserts/test/","dgPassFrontmatter":true}
 ---
 

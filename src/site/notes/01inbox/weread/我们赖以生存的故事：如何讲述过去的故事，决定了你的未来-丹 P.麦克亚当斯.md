@@ -1,5 +1,5 @@
 ---
-{"doc_type":"weread-highlights-reviews","bookId":23826902,"author":"丹 P.麦克亚当斯","cover":"https://weread-1258476243.file.myqcloud.com/weread/cover/48/YueWen_23826902/t7_YueWen_23826902.jpg","reviewCount":1,"noteCount":13,"isbn":9787111615453,"category":"心理-心理学应用","lastReadDate":"2022-04-14","dg-publish":true,"permalink":"/01inbox/weread/我们赖以生存的故事：如何讲述过去的故事，决定了你的未来-丹 P.麦克亚当斯/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"doc_type":"weread-highlights-reviews","bookId":23826902,"author":"丹 P.麦克亚当斯","cover":"https://weread-1258476243.file.myqcloud.com/weread/cover/48/YueWen_23826902/t7_YueWen_23826902.jpg","reviewCount":1,"noteCount":13,"isbn":9787111615453,"category":"心理-心理学应用","lastReadDate":"2022-04-14","dg-publish":true,"permalink":"/01inbox/weread/我们赖以生存的故事：如何讲述过去的故事，决定了你的未来-丹 P.麦克亚当斯/","dgPassFrontmatter":true}
 ---
 
 # 元数据

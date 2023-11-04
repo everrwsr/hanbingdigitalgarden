@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/12 how to set idea maven设置/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/12 how to set idea maven设置/","dgPassFrontmatter":true}
 ---
 
 选中项目pom.xml文件，右键选择打开settings.xml配置

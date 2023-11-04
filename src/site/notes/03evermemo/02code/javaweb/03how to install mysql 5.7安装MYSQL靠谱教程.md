@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/03how to install mysql 5.7安装MYSQL靠谱教程/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/03evermemo/02code/javaweb/03how to install mysql 5.7安装MYSQL靠谱教程/","dgPassFrontmatter":true}
 ---
 
 

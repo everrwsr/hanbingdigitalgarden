@@ -65,7 +65,7 @@
 ## 项目
 
 
-[[02code/SpringBoot仿牛客论坛项目实战 - 掘金\|SpringBoot仿牛客论坛项目实战 - 掘金]]
+[[02evermemo/02code/02code/SpringBoot仿牛客论坛项目实战 - 掘金\|SpringBoot仿牛客论坛项目实战 - 掘金]]
 
 
 

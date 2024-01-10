@@ -19,10 +19,6 @@
 
 ##  最近要干什么呢
 
-六级
-[[2024大学恶意软件毕设实验结束总结\|2024大学恶意软件毕设实验结束总结]]
-
-
 
 找工作
 
@@ -33,28 +29,20 @@
 去死？
 
 
-
-
-
-
-
-
-
-
 ## Recently article
 
-| File                                                                            | Last Modified               |
-| ------------------------------------------------------------------------------- | --------------------------- |
-| [[汇总自己可以做的事情的清单\|汇总自己可以做的事情的清单]]                                             | 11:29 PM - January 06, 2024 |
-| [[2024大学恶意软件毕设实验结束总结\|2024大学恶意软件毕设实验结束总结]]                                   | 11:28 PM - January 06, 2024 |
-| [[02evermemo/可常记录/tools好用的工具\|tools好用的工具]]                                   | 7:53 PM - January 06, 2024  |
-| [[清理windows私人经验\|清理windows私人经验]]                                             | 7:46 PM - January 06, 2024  |
-| [[webpage/C 盘清理指南，清理出 30G + 起，超详细总结（建议收藏）\|C 盘清理指南，清理出 30G + 起，超详细总结（建议收藏）]] | 7:45 PM - January 06, 2024  |
-| [[windows技巧\|windows技巧]]                                                     | 7:34 PM - January 06, 2024  |
-| [[02evermemo/gpts官方跳转到第三方gpts脚本\|gpts官方跳转到第三方gpts脚本]]                        | 6:25 PM - January 06, 2024  |
-| [[02evermemo/可常记录/sources常用的内容源\|sources常用的内容源]]                             | 5:34 PM - January 06, 2024  |
-| [[03bishe/如何查找论文代码\|如何查找论文代码]]                                               | 5:23 PM - January 06, 2024  |
-| [[Home\|Home]]                                                               | 5:18 PM - January 06, 2024  |
+| File                                                                                                 | Last Modified              |
+| ---------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[01inbox/weread/心理学与生活（第19版，中文版）-[美]理查德•格里格 [美]菲利普•津巴多\|心理学与生活（第19版，中文版）-[美]理查德•格里格 [美]菲利普•津巴多]] | 6:27 PM - January 10, 2024 |
+| [[02evermemo/02code/02code/牛客JAVA\|牛客JAVA]]                                                       | 6:18 PM - January 10, 2024 |
+| [[01inbox/python some idea\|python some idea]]                                                    | 6:18 PM - January 10, 2024 |
+| [[01inbox/Python自动化测试\|Python自动化测试]]                                                              | 6:17 PM - January 10, 2024 |
+| [[02evermemo/02code/02code/Vue 笔记\|Vue 笔记]]                                                       | 6:17 PM - January 10, 2024 |
+| [[02evermemo/02code/02code/javaweb javascript笔记\|javaweb javascript笔记]]                           | 6:16 PM - January 10, 2024 |
+| [[01inbox/超星图书馆预约系统网页版升级\|超星图书馆预约系统网页版升级]]                                                        | 6:15 PM - January 10, 2024 |
+| [[02evermemo/02code/02code/SpringBoot 笔记\|SpringBoot 笔记]]                                         | 6:15 PM - January 10, 2024 |
+| [[01inbox/java 项目 瑞吉外卖\|java 项目 瑞吉外卖]]                                                            | 6:15 PM - January 10, 2024 |
+| [[02evermemo/javaweb  HTML\|javaweb  HTML]]                                                       | 6:14 PM - January 10, 2024 |
 
 { .block-language-dataview}
 

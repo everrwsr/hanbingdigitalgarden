@@ -31,18 +31,18 @@
 
 ## Recently article
 
-| File                                                                                                 | Last Modified              |
-| ---------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[01inbox/weread/心理学与生活（第19版，中文版）-[美]理查德•格里格 [美]菲利普•津巴多\|心理学与生活（第19版，中文版）-[美]理查德•格里格 [美]菲利普•津巴多]] | 6:27 PM - January 10, 2024 |
-| [[02evermemo/02code/02code/牛客JAVA\|牛客JAVA]]                                                       | 6:18 PM - January 10, 2024 |
-| [[01inbox/python some idea\|python some idea]]                                                    | 6:18 PM - January 10, 2024 |
-| [[01inbox/Python自动化测试\|Python自动化测试]]                                                              | 6:17 PM - January 10, 2024 |
-| [[02evermemo/02code/02code/Vue 笔记\|Vue 笔记]]                                                       | 6:17 PM - January 10, 2024 |
-| [[02evermemo/02code/02code/javaweb javascript笔记\|javaweb javascript笔记]]                           | 6:16 PM - January 10, 2024 |
-| [[01inbox/超星图书馆预约系统网页版升级\|超星图书馆预约系统网页版升级]]                                                        | 6:15 PM - January 10, 2024 |
-| [[02evermemo/02code/02code/SpringBoot 笔记\|SpringBoot 笔记]]                                         | 6:15 PM - January 10, 2024 |
-| [[01inbox/java 项目 瑞吉外卖\|java 项目 瑞吉外卖]]                                                            | 6:15 PM - January 10, 2024 |
-| [[02evermemo/javaweb  HTML\|javaweb  HTML]]                                                       | 6:14 PM - January 10, 2024 |
+| File                                                                              | Last Modified              |
+| --------------------------------------------------------------------------------- | -------------------------- |
+| [[02evermemo/02code/javaweb/heima/mybatis introduce 介绍\|mybatis introduce 介绍]] | 6:37 PM - January 10, 2024 |
+| [[06公考/考公资源汇总网站\|考公资源汇总网站]]                                                    | 6:37 PM - January 10, 2024 |
+| [[07工作/岗位信息表\|岗位信息表]]                                                          | 6:37 PM - January 10, 2024 |
+| [[02evermemo/02code/02code/阿里云免费服务器\|阿里云免费服务器]]                                | 6:37 PM - January 10, 2024 |
+| [[03bishe/良性和恶意都有的windows数据集\|良性和恶意都有的windows数据集]]                             | 6:37 PM - January 10, 2024 |
+| [[07工作/java 面试汇总\|java 面试汇总]]                                                  | 6:37 PM - January 10, 2024 |
+| [[02evermemo/提问的艺术\|提问的艺术]]                                                    | 6:37 PM - January 10, 2024 |
+| [[01inbox/windows 常用命令\|windows 常用命令]]                                         | 6:37 PM - January 10, 2024 |
+| [[02evermemo/和王某一起看的一个小问题关于散列表的种种JAVA\|和王某一起看的一个小问题关于散列表的种种JAVA]]              | 6:36 PM - January 10, 2024 |
+| [[02evermemo/word/02Word： picture七种图片环绕方式详解\|02Word： picture七种图片环绕方式详解]]       | 6:36 PM - January 10, 2024 |
 
 { .block-language-dataview}
 

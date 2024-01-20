@@ -26,23 +26,23 @@
 
 写东西
 
-去死？
+
 
 
 ## Recently article
 
-| File                                                  | Last Modified               |
-| ----------------------------------------------------- | --------------------------- |
-| [[03bishe/如何查找论文代码和数据集\|如何查找论文代码和数据集]]             | 3:35 PM - January 16, 2024  |
-| [[03bishe/恶意软件数据集和代码\|恶意软件数据集和代码]]                 | 11:27 AM - January 16, 2024 |
-| [[刘天天毕设参考代码\|刘天天毕设参考代码]]                           | 11:22 AM - January 16, 2024 |
-| [[02evermemo/可常记录/quotes收集发人深省的话\|quotes收集发人深省的话]] | 1:15 AM - January 16, 2024  |
-| [[02evermemo/翻墙/免费翻墙教程\|免费翻墙教程]]                   | 10:17 PM - January 15, 2024 |
-| [[02evermemo/可常记录/tools好用的工具\|tools好用的工具]]         | 10:11 PM - January 15, 2024 |
-| [[02evermemo/skill/声音克隆\|声音克隆]]                    | 5:25 PM - January 14, 2024  |
-| [[2024国考分数\|2024国考分数]]                             | 2:11 PM - January 14, 2024  |
-| [[test\|test]]                                     | 9:17 AM - January 14, 2024  |
-| [[03bishe/2024-01-14\|2024-01-14]]                 | 9:17 AM - January 14, 2024  |
+| File                                                                                        | Last Modified               |
+| ------------------------------------------------------------------------------------------- | --------------------------- |
+| [[05notes/私人/元儿的各自账号记录\|元儿的各自账号记录]]                                                      | 7:29 PM - January 20, 2024  |
+| [[Home\|Home]]                                                                           | 6:56 PM - January 20, 2024  |
+| [[00inbox/weread/什么样的爱值得勇敢一次-沈奕斐\|什么样的爱值得勇敢一次-沈奕斐]]                                      | 6:52 PM - January 20, 2024  |
+| [[05notes/私人/可以尝试的分类标签\|可以尝试的分类标签]]                                                      | 6:51 PM - January 20, 2024  |
+| [[00inbox/jianyue/Obsidian 插件：Hidden Folder 快速隐藏文件夹\|Obsidian 插件：Hidden Folder 快速隐藏文件夹]] | 6:48 PM - January 20, 2024  |
+| [[05notes/06公考/考公计划\|考公计划]]                                                              | 6:46 PM - January 20, 2024  |
+| [[00inbox/YuqueExport/学习笔记\|学习笔记]]                                                       | 6:44 PM - January 20, 2024  |
+| [[02dev/可常记录/article好文章\|article好文章]]                                                    | 6:32 PM - January 20, 2024  |
+| [[准备转化为Anki的一些东西\|准备转化为Anki的一些东西]]                                                       | 6:31 PM - January 20, 2024  |
+| [[02dev/每天微习惯清单\|每天微习惯清单]]                                                               | 12:54 AM - January 20, 2024 |
 
 { .block-language-dataview}
 

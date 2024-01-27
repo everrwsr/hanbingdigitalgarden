@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02dev/激活windows教程和更换windows版本教程/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02dev/激活windows教程和更换windows版本教程/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-#技能 
+#生活/技能 
 
 1的好处是不额外下软件，
 2的好处是简单万能有图像界面

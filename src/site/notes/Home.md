@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ## Dairy Inspection
@@ -28,21 +28,20 @@
 
 
 
-
 ## Recently article
 
-| File                                                                                        | Last Modified               |
-| ------------------------------------------------------------------------------------------- | --------------------------- |
-| [[05notes/私人/元儿的各自账号记录\|元儿的各自账号记录]]                                                      | 7:29 PM - January 20, 2024  |
-| [[Home\|Home]]                                                                           | 6:56 PM - January 20, 2024  |
-| [[00inbox/weread/什么样的爱值得勇敢一次-沈奕斐\|什么样的爱值得勇敢一次-沈奕斐]]                                      | 6:52 PM - January 20, 2024  |
-| [[05notes/私人/可以尝试的分类标签\|可以尝试的分类标签]]                                                      | 6:51 PM - January 20, 2024  |
-| [[00inbox/jianyue/Obsidian 插件：Hidden Folder 快速隐藏文件夹\|Obsidian 插件：Hidden Folder 快速隐藏文件夹]] | 6:48 PM - January 20, 2024  |
-| [[05notes/06公考/考公计划\|考公计划]]                                                              | 6:46 PM - January 20, 2024  |
-| [[00inbox/YuqueExport/学习笔记\|学习笔记]]                                                       | 6:44 PM - January 20, 2024  |
-| [[02dev/可常记录/article好文章\|article好文章]]                                                    | 6:32 PM - January 20, 2024  |
-| [[准备转化为Anki的一些东西\|准备转化为Anki的一些东西]]                                                       | 6:31 PM - January 20, 2024  |
-| [[02dev/每天微习惯清单\|每天微习惯清单]]                                                               | 12:54 AM - January 20, 2024 |
+| File                                                              | Last Modified               |
+| ----------------------------------------------------------------- | --------------------------- |
+| [[准备转化为Anki的一些东西\|准备转化为Anki的一些东西]]                             | 1:43 PM - January 27, 2024  |
+| [[05notes/yongjiubiji/article好文章\|article好文章]]                 | 1:42 PM - January 27, 2024  |
+| [[05notes/yongjiubiji/quotes收集发人深省的话\|quotes收集发人深省的话]]         | 1:42 PM - January 27, 2024  |
+| [[typorta主题\|typorta主题]]                                       | 1:16 PM - January 27, 2024  |
+| [[AI 文档\|AI 文档]]                                               | 12:40 PM - January 27, 2024 |
+| [[00inbox/shijianchuobiji/2024年01月27日12：01\|2024年01月27日12：01]] | 12:38 PM - January 27, 2024 |
+| [[03diary/2024-01-27\|2024-01-27]]                             | 12:37 PM - January 27, 2024 |
+| [[05notes/yongjiubiji/tools好用的工具\|tools好用的工具]]                 | 11:14 AM - January 27, 2024 |
+| [[快捷键记录\|快捷键记录]]                                               | 10:15 PM - January 26, 2024 |
+| [[00inbox/shijianchuobiji/2024年01月26日21：01\|2024年01月26日21：01]] | 9:09 PM - January 26, 2024  |
 
 { .block-language-dataview}
 

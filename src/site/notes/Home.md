@@ -30,18 +30,18 @@
 
 ## Recently article
 
-| File                                                              | Last Modified               |
-| ----------------------------------------------------------------- | --------------------------- |
-| [[准备转化为Anki的一些东西\|准备转化为Anki的一些东西]]                             | 1:43 PM - January 27, 2024  |
-| [[05notes/yongjiubiji/article好文章\|article好文章]]                 | 1:42 PM - January 27, 2024  |
-| [[05notes/yongjiubiji/quotes收集发人深省的话\|quotes收集发人深省的话]]         | 1:42 PM - January 27, 2024  |
-| [[typorta主题\|typorta主题]]                                       | 1:16 PM - January 27, 2024  |
-| [[AI 文档\|AI 文档]]                                               | 12:40 PM - January 27, 2024 |
-| [[00inbox/shijianchuobiji/2024年01月27日12：01\|2024年01月27日12：01]] | 12:38 PM - January 27, 2024 |
-| [[03diary/2024-01-27\|2024-01-27]]                             | 12:37 PM - January 27, 2024 |
-| [[05notes/yongjiubiji/tools好用的工具\|tools好用的工具]]                 | 11:14 AM - January 27, 2024 |
-| [[快捷键记录\|快捷键记录]]                                               | 10:15 PM - January 26, 2024 |
-| [[00inbox/shijianchuobiji/2024年01月26日21：01\|2024年01月26日21：01]] | 9:09 PM - January 26, 2024  |
+| File                                                                                                                                                                                    | Last Modified              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[八部金刚功\|八部金刚功]]                                                                                                                                                                     | 3:28 PM - January 27, 2024 |
+| [[05notes/yongjiubiji/quotes收集发人深省的话\|quotes收集发人深省的话]]                                                                                                                               | 3:27 PM - January 27, 2024 |
+| [[05notes/03bishe/如何查找论文代码和数据集\|如何查找论文代码和数据集]]                                                                                                                                       | 3:22 PM - January 27, 2024 |
+| [[05notes/yongjiubiji/tools好用的工具\|tools好用的工具]]                                                                                                                                       | 3:07 PM - January 27, 2024 |
+| [[05notes/私人/找代码\|找代码]]                                                                                                                                                              | 2:58 PM - January 27, 2024 |
+| [[00inbox/jianyue/webpage/xiaolai_everyone-can-use-english： 人人都能用英语\|xiaolai_everyone-can-use-english： 人人都能用英语]]                                                                     | 2:55 PM - January 27, 2024 |
+| [[00inbox/jianyue/webpage/piglei_one-python-craftsman： 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。\|piglei_one-python-craftsman： 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。]] | 2:53 PM - January 27, 2024 |
+| [[00inbox/jianyue/webpage/AutoDL 帮助文档\|AutoDL 帮助文档]]                                                                                                                                 | 2:53 PM - January 27, 2024 |
+| [[00inbox/jianyue/webpage/【校招】测试开发岗 - 高频面试题总结_校招 测试开发 - CSDN 博客\|【校招】测试开发岗 - 高频面试题总结_校招 测试开发 - CSDN 博客]]                                                                             | 2:52 PM - January 27, 2024 |
+| [[00inbox/jianyue/webpage/我是如何在本科期间发表顶会论文的？（内含开源代码和数据集）\|我是如何在本科期间发表顶会论文的？（内含开源代码和数据集）]]                                                                                             | 2:51 PM - January 27, 2024 |
 
 { .block-language-dataview}
 

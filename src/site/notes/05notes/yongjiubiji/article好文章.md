@@ -55,3 +55,7 @@
 [[02dev/关于笔记的建议\|关于笔记的建议]]
 
 ![image.png](https://cdn.jsdelivr.net/gh/everrwsr/blogimage@master/202401241655870.png)
+
+
+谈论嫁妆和彩礼的文章去，全球化视角
+[女人的价格 - 作者：Tove K - Wood From Eden - Owen's Clip](https://clip.owenyoung.com/2023/07/29/the-price-of-a-woman/)

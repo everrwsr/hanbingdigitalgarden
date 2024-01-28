@@ -2,6 +2,11 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
+
+```toc
+```
+
+
 ## Dairy Inspection
 
 > 坚持不是从未放弃，而是现在还在做
@@ -20,28 +25,35 @@
 ##  最近要干什么呢
 
 
-找工作
+牛客和boss: 找工作，投简历，做测评，笔试和面试
 
-继续复习考公
+24陕西省考，每天刷题看课
+
 
 写东西
+
+
+八部金刚功
+八部长寿功
+[[八部金刚功\|八部金刚功]]
+
 
 
 
 ## Recently article
 
-| File                                                                                                                                                                                    | Last Modified              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[05notes/yongjiubiji/quotes收集发人深省的话\|quotes收集发人深省的话]]                                                                                                                               | 3:33 PM - January 27, 2024 |
-| [[八部金刚功\|八部金刚功]]                                                                                                                                                                     | 3:28 PM - January 27, 2024 |
-| [[05notes/03bishe/如何查找论文代码和数据集\|如何查找论文代码和数据集]]                                                                                                                                       | 3:22 PM - January 27, 2024 |
-| [[05notes/yongjiubiji/tools好用的工具\|tools好用的工具]]                                                                                                                                       | 3:07 PM - January 27, 2024 |
-| [[05notes/私人/找代码\|找代码]]                                                                                                                                                              | 2:58 PM - January 27, 2024 |
-| [[00inbox/jianyue/webpage/xiaolai_everyone-can-use-english： 人人都能用英语\|xiaolai_everyone-can-use-english： 人人都能用英语]]                                                                     | 2:55 PM - January 27, 2024 |
-| [[00inbox/jianyue/webpage/piglei_one-python-craftsman： 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。\|piglei_one-python-craftsman： 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。]] | 2:53 PM - January 27, 2024 |
-| [[00inbox/jianyue/webpage/AutoDL 帮助文档\|AutoDL 帮助文档]]                                                                                                                                 | 2:53 PM - January 27, 2024 |
-| [[00inbox/jianyue/webpage/【校招】测试开发岗 - 高频面试题总结_校招 测试开发 - CSDN 博客\|【校招】测试开发岗 - 高频面试题总结_校招 测试开发 - CSDN 博客]]                                                                             | 2:52 PM - January 27, 2024 |
-| [[00inbox/jianyue/webpage/我是如何在本科期间发表顶会论文的？（内含开源代码和数据集）\|我是如何在本科期间发表顶会论文的？（内含开源代码和数据集）]]                                                                                             | 2:51 PM - January 27, 2024 |
+| File                                                                                                                                    | Last Modified               |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[02dev/激活windows教程和更换windows版本教程windows激活教程\|激活windows教程和更换windows版本教程windows激活教程]]                                                 | 2:04 PM - January 28, 2024  |
+| [[05notes/yongjiubiji/tools好用的工具\|tools好用的工具]]                                                                                       | 12:58 PM - January 28, 2024 |
+| [[Linux使用技巧\|Linux使用技巧]]                                                                                                             | 12:50 PM - January 28, 2024 |
+| [[00inbox/jianyue/Linux 使用技巧 _ Pi3's Notebook\|Linux 使用技巧 _ Pi3's Notebook]]                                                         | 12:50 PM - January 28, 2024 |
+| [[00inbox/jianyue/33-Linux 使用技巧 _ Pi3's Notebook@annote\|33-Linux 使用技巧 _ Pi3's Notebook@annote]]                                     | 12:43 PM - January 28, 2024 |
+| [[02dev/重装系统为郑天怡，我对不起她原本不需要重装的\|重装系统为郑天怡，我对不起她原本不需要重装的]]                                                                             | 12:06 PM - January 28, 2024 |
+| [[实时协作聊天\|实时协作聊天]]                                                                                                                   | 9:37 PM - January 27, 2024  |
+| [[02dev/简阅修改自动化方案\|简阅修改自动化方案]]                                                                                                       | 8:53 PM - January 27, 2024  |
+| [[00inbox/jianyue/- Gained InSite： philosophical things for normal people\|- Gained InSite： philosophical things for normal people]] | 8:49 PM - January 27, 2024  |
+| [[00inbox/jianyue/webpage/关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。 全诗赏析_古诗文网\|关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。 全诗赏析_古诗文网]]                                   | 8:48 PM - January 27, 2024  |
 
 { .block-language-dataview}
 

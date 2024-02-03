@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05notes/yongjiubiji/article好文章/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/05notes/yongjiubiji/article好文章/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -59,3 +59,16 @@
 
 谈论嫁妆和彩礼的文章去，全球化视角
 [女人的价格 - 作者：Tove K - Wood From Eden - Owen's Clip](https://clip.owenyoung.com/2023/07/29/the-price-of-a-woman/)
+
+
+可参考的知识管理教程
+
+[[00inbox/jianyue/33-我的思考工作流（2024 年版）@annote\|33-我的思考工作流（2024 年版）@annote]]
+
+
+我的目前流程
+
+收集 cubox 
+处理简悦
+整理归档 obsidian
+自动化 quicker

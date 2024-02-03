@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05notes/yongjiubiji/准备转化为Anki的一些东西/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/05notes/yongjiubiji/准备转化为Anki的一些东西/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 资料

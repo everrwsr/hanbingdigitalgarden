@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -42,18 +42,18 @@
 
 ## Recently article
 
-| File                                                                                                                                    | Last Modified               |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[02dev/激活windows教程和更换windows版本教程windows激活教程\|激活windows教程和更换windows版本教程windows激活教程]]                                                 | 2:04 PM - January 28, 2024  |
-| [[05notes/yongjiubiji/tools好用的工具\|tools好用的工具]]                                                                                       | 12:58 PM - January 28, 2024 |
-| [[Linux使用技巧\|Linux使用技巧]]                                                                                                             | 12:50 PM - January 28, 2024 |
-| [[00inbox/jianyue/Linux 使用技巧 _ Pi3's Notebook\|Linux 使用技巧 _ Pi3's Notebook]]                                                         | 12:50 PM - January 28, 2024 |
-| [[00inbox/jianyue/33-Linux 使用技巧 _ Pi3's Notebook@annote\|33-Linux 使用技巧 _ Pi3's Notebook@annote]]                                     | 12:43 PM - January 28, 2024 |
-| [[02dev/重装系统为郑天怡，我对不起她原本不需要重装的\|重装系统为郑天怡，我对不起她原本不需要重装的]]                                                                             | 12:06 PM - January 28, 2024 |
-| [[实时协作聊天\|实时协作聊天]]                                                                                                                   | 9:37 PM - January 27, 2024  |
-| [[02dev/简阅修改自动化方案\|简阅修改自动化方案]]                                                                                                       | 8:53 PM - January 27, 2024  |
-| [[00inbox/jianyue/- Gained InSite： philosophical things for normal people\|- Gained InSite： philosophical things for normal people]] | 8:49 PM - January 27, 2024  |
-| [[00inbox/jianyue/webpage/关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。 全诗赏析_古诗文网\|关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。 全诗赏析_古诗文网]]                                   | 8:48 PM - January 27, 2024  |
+| File                                                                                                                                                                      | Last Modified                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[05notes/yongjiubiji/tools好用的工具\|tools好用的工具]]                                                                                                                         | 4:17 PM - February 03, 2024  |
+| [[01random/Writing summaries is more important than reading more books 写摘要比多读书更重要\|Writing summaries is more important than reading more books 写摘要比多读书更重要]]            | 11:02 PM - February 02, 2024 |
+| [[00inbox/jianyue/‌﻿​‌⁡‬⁤​⁤⁢⁣﻿‍​⁡​⁡⁡‬⁤‍⁡‬​‍‍⁢​​‬⁢‬⁡‬⁡⁤‬﻿‬​‬⁡‍​‬‬​﻿⁤⁤测试答疑【比特就业课】 - Lark 云文档\|‌﻿​‌⁡‬⁤​⁤⁢⁣﻿‍​⁡​⁡⁡‬⁤‍⁡‬​‍‍⁢​​‬⁢‬⁡‬⁡⁤‬﻿‬​‬⁡‍​‬‬​﻿⁤⁤测试答疑【比特就业课】 - Lark 云文档]] | 10:45 PM - February 02, 2024 |
+| [[01random/Win10 Win11系统版本一键切换6.5\|Win10 Win11系统版本一键切换6.5]]                                                                                                            | 10:39 PM - February 02, 2024 |
+| [[01random/如何做聪明的笔记：彻底改变你的笔记和写作的10个原则\|如何做聪明的笔记：彻底改变你的笔记和写作的10个原则]]                                                                                                    | 10:34 PM - February 02, 2024 |
+| [[02dev/机器学习比较好用的库\|机器学习比较好用的库]]                                                                                                                                       | 10:28 PM - February 02, 2024 |
+| [[05notes/本科毕业设计/张婉珺毕设可能的参考资料呜呜为什么她不问我啊呜呜呜算了或许糊弄就好，我浪费太多时间精力了\|张婉珺毕设可能的参考资料呜呜为什么她不问我啊呜呜呜算了或许糊弄就好，我浪费太多时间精力了]]                                                          | 8:24 PM - February 02, 2024  |
+| [[05notes/本科毕业设计/自己的毕业设计实验复现过程命令集合汇总\|自己的毕业设计实验复现过程命令集合汇总]]                                                                                                            | 8:18 PM - February 02, 2024  |
+| [[05notes/本科毕业设计/autodl使用教程\|autodl使用教程]]                                                                                                                              | 8:18 PM - February 02, 2024  |
+| [[05notes/本科毕业设计/2024大学恶意软件毕设实验结束总结\|2024大学恶意软件毕设实验结束总结]]                                                                                                              | 8:18 PM - February 02, 2024  |
 
 { .block-language-dataview}
 

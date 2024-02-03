@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05notes/yongjiubiji/quotes收集发人深省的话/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/05notes/yongjiubiji/quotes收集发人深省的话/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 > 坚持不是从未放弃，而是现在还在做

@@ -17,6 +17,8 @@
 
 > 一个人如果只对自己的理想赞同，但是不为其付出任何实际行动，往往是语言上的巨人，行动上的侏儒。
 
+[[05notes/永久笔记/quotes收集发人深省的话\|quotes收集发人深省的话]]
+
 
 ##  最近要干什么呢
 
@@ -32,26 +34,30 @@
 八部金刚功
 八部长寿功
 
+不要找那些白嫖方案了
+你是需要稳定方案的人啦
+做哪些毫无意义，朝令夕改
 
 
+[[05notes/永久笔记/tools好用的工具\|tools好用的工具]]
 
 
 
 
 ## Recently article
 
-| File                                                                                                      | Last Modified                |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[02dev/修复hugo主题不显示评论问题\|修复hugo主题不显示评论问题]]                                                             | 1:42 PM - February 12, 2024  |
-| [[Home\|Home]]                                                                                         | 11:59 AM - February 12, 2024 |
-| [[01random/问竟元毕设，我真是个傻逼\|问竟元毕设，我真是个傻逼]]                                                                | 8:09 PM - February 11, 2024  |
-| [[00inbox/jianyue/解决 npm ERR! code CERT_HAS_EXPIRED，证书过期问题\|解决 npm ERR! code CERT_HAS_EXPIRED，证书过期问题]] | 5:47 PM - February 11, 2024  |
-| [[05notes/永久笔记/quotes收集发人深省的话\|quotes收集发人深省的话]]                                                        | 9:43 AM - February 11, 2024  |
-| [[05notes/私人/gpt科研\|gpt科研]]                                                                            | 9:41 AM - February 11, 2024  |
-| [[面试自我介绍和项目介绍汇总\|面试自我介绍和项目介绍汇总]]                                                                       | 9:35 AM - February 11, 2024  |
-| [[01random/2023最爱的3个产品来自某博主\|2023最爱的3个产品来自某博主]]                                                        | 9:31 AM - February 11, 2024  |
-| [[01random/考公资料数据库时政\|考公资料数据库时政]]                                                                      | 9:30 AM - February 11, 2024  |
-| [[01random/某位市长讲了下房地产的一些逻辑\|某位市长讲了下房地产的一些逻辑]]                                                          | 9:30 AM - February 11, 2024  |
+| File                                                                                                  | Last Modified            |
+| ----------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[05notes/永久笔记/quotes收集发人深省的话\|quotes收集发人深省的话]]                                                    | 7:54 PM - March 02, 2024 |
+| [[AI角色卡\|AI角色卡]]                                                                                   | 7:52 PM - March 02, 2024 |
+| [[05notes/永久笔记/tools好用的工具\|tools好用的工具]]                                                            | 7:50 PM - March 02, 2024 |
+| [[newbing copilot使用指南\|newbing copilot使用指南]]                                                       | 7:00 PM - March 02, 2024 |
+| [[gpts推荐\|gpts推荐]]                                                                                 | 6:58 PM - March 02, 2024 |
+| [[破解gpts\|破解gpts]]                                                                                 | 6:29 PM - March 02, 2024 |
+| [[gpt输出长文档\|gpt输出长文档]]                                                                             | 6:04 PM - March 02, 2024 |
+| [[00inbox/jianyue/weaigc_bingo： Bingo，一个让你呼吸顺畅 New Bing。\|weaigc_bingo： Bingo，一个让你呼吸顺畅 New Bing。]] | 5:36 PM - March 02, 2024 |
+| [[obsidian小技巧\|obsidian小技巧]]                                                                       | 1:18 PM - March 02, 2024 |
+| [[Home\|Home]]                                                                                     | 1:16 PM - March 02, 2024 |
 
 { .block-language-dataview}
 

@@ -16,6 +16,11 @@
 [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/part-1/4-reading)
 [GitHub - xiaolai/everyone-can-use-english: 人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
 
+## 心理
+
+[[00inbox/jianyue/序：当痛苦可以被言说 & 心理学家卡尔 · 荣格说过：“只有直面灵魂的人，才会觉醒。”\|序：当痛苦可以被言说 & 心理学家卡尔 · 荣格说过：“只有直面灵魂的人，才会觉醒。”]]
+
+
 
 ## 记忆
 
@@ -71,3 +76,7 @@
 处理简悦
 整理归档 obsidian
 自动化 quicker
+
+
+开发
+[[02dev/10 个帮助你更好入门编程的网站和工具--很全面！\|10 个帮助你更好入门编程的网站和工具--很全面！]]

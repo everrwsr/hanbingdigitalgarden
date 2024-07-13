@@ -5,7 +5,7 @@
 
 ## Dairy Inspection
 
-> 坚持不是从未放弃，而是现在还在做
+> **坚持不是从未放弃，而是现在还在做**
 
 > 是否有过 全心全意去生活，不惧任何困难，不推脱任何可能，在某处扎根活下去的意志。
 
@@ -25,30 +25,13 @@
 
 
 
-[[05notes/面试自我介绍和项目介绍汇总\|05notes/面试自我介绍和项目介绍汇总]]
-
-
-[[05notes/07工作/春招找工作汇总\|05notes/07工作/春招找工作汇总]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Recently article
 
 | File                                                                                                                            | Last Modified            |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[Home\|Home]]                                                                                                               | 11:13 AM - July 13, 2024 |
 | [[00inbox/jianyue/计算机专业想进国企必看手册，全文牛客网\|计算机专业想进国企必看手册，全文牛客网]]                                                                 | 11:09 AM - July 13, 2024 |
 | [[05notes/写在上岸以后\|写在上岸以后]]                                                                                                   | 11:05 AM - July 13, 2024 |
 | [[02dev/obsidian digital garden 插件无法删除图片解决方法\|obsidian digital garden 插件无法删除图片解决方法]]                                         | 10:46 AM - July 13, 2024 |
@@ -56,7 +39,6 @@
 | [[Excalidraw/Drawing 2024-07-13 10.20.08.excalidraw\|Drawing 2024-07-13 10.20.08.excalidraw]]                                | 10:21 AM - July 13, 2024 |
 | [[05notes/陕西保密局情况概况\|陕西保密局情况概况]]                                                                                             | 10:14 AM - July 13, 2024 |
 | [[00inbox/jianyue/考公的资料备份和介绍——为一个犹豫的朋友啦\|考公的资料备份和介绍——为一个犹豫的朋友啦]]                                                             | 12:48 PM - July 11, 2024 |
-| [[Home\|Home]]                                                                                                               | 4:33 PM - July 07, 2024  |
 | [[00inbox/jianyue/Pycharm Debug(断点调试) 超详细攻略_pycharm 断点调试怎么用 - CSDN 博客\|Pycharm Debug(断点调试) 超详细攻略_pycharm 断点调试怎么用 - CSDN 博客]] | 5:48 PM - June 29, 2024  |
 | [[00inbox/jianyue/allinu_Awesome-Windows： Windows 平台下的优秀软件、工具推荐列表\|allinu_Awesome-Windows： Windows 平台下的优秀软件、工具推荐列表]]         | 11:05 AM - June 29, 2024 |
 

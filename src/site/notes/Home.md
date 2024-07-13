@@ -49,16 +49,16 @@
 
 | File                                                                                                                            | Last Modified            |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[05notes/写在上岸以后\|写在上岸以后]]                                                                                                   | 11:05 AM - July 13, 2024 |
+| [[02dev/obsidian digital garden 插件无法删除图片解决方法\|obsidian digital garden 插件无法删除图片解决方法]]                                         | 10:46 AM - July 13, 2024 |
+| [[02dev/vscode直接新建项目插件\|vscode直接新建项目插件]]                                                                                     | 10:45 AM - July 13, 2024 |
 | [[Excalidraw/Drawing 2024-07-13 10.20.08.excalidraw\|Drawing 2024-07-13 10.20.08.excalidraw]]                                | 10:21 AM - July 13, 2024 |
 | [[05notes/陕西保密局情况概况\|陕西保密局情况概况]]                                                                                             | 10:14 AM - July 13, 2024 |
-| [[05notes/写在上岸以后\|写在上岸以后]]                                                                                                   | 10:14 AM - July 13, 2024 |
 | [[00inbox/jianyue/考公的资料备份和介绍——为一个犹豫的朋友啦\|考公的资料备份和介绍——为一个犹豫的朋友啦]]                                                             | 12:48 PM - July 11, 2024 |
 | [[Home\|Home]]                                                                                                               | 4:33 PM - July 07, 2024  |
 | [[00inbox/jianyue/Pycharm Debug(断点调试) 超详细攻略_pycharm 断点调试怎么用 - CSDN 博客\|Pycharm Debug(断点调试) 超详细攻略_pycharm 断点调试怎么用 - CSDN 博客]] | 5:48 PM - June 29, 2024  |
 | [[00inbox/jianyue/allinu_Awesome-Windows： Windows 平台下的优秀软件、工具推荐列表\|allinu_Awesome-Windows： Windows 平台下的优秀软件、工具推荐列表]]         | 11:05 AM - June 29, 2024 |
 | [[05notes/永久笔记/tools好用的工具\|tools好用的工具]]                                                                                      | 11:03 AM - June 29, 2024 |
-| [[00inbox/jianyue/自力更生 _ 自托管前，你考虑过网络安全吗？\|自力更生 _ 自托管前，你考虑过网络安全吗？]]                                                           | 2:04 PM - June 28, 2024  |
-| [[05notes/gpt注册\|gpt注册]]                                                                                                     | 1:57 PM - June 27, 2024  |
 
 { .block-language-dataview}
 

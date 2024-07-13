@@ -49,6 +49,7 @@
 
 | File                                                                                                                            | Last Modified            |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[00inbox/jianyue/计算机专业想进国企必看手册，全文牛客网\|计算机专业想进国企必看手册，全文牛客网]]                                                                 | 11:09 AM - July 13, 2024 |
 | [[05notes/写在上岸以后\|写在上岸以后]]                                                                                                   | 11:05 AM - July 13, 2024 |
 | [[02dev/obsidian digital garden 插件无法删除图片解决方法\|obsidian digital garden 插件无法删除图片解决方法]]                                         | 10:46 AM - July 13, 2024 |
 | [[02dev/vscode直接新建项目插件\|vscode直接新建项目插件]]                                                                                     | 10:45 AM - July 13, 2024 |
@@ -58,7 +59,6 @@
 | [[Home\|Home]]                                                                                                               | 4:33 PM - July 07, 2024  |
 | [[00inbox/jianyue/Pycharm Debug(断点调试) 超详细攻略_pycharm 断点调试怎么用 - CSDN 博客\|Pycharm Debug(断点调试) 超详细攻略_pycharm 断点调试怎么用 - CSDN 博客]] | 5:48 PM - June 29, 2024  |
 | [[00inbox/jianyue/allinu_Awesome-Windows： Windows 平台下的优秀软件、工具推荐列表\|allinu_Awesome-Windows： Windows 平台下的优秀软件、工具推荐列表]]         | 11:05 AM - June 29, 2024 |
-| [[05notes/永久笔记/tools好用的工具\|tools好用的工具]]                                                                                      | 11:03 AM - June 29, 2024 |
 
 { .block-language-dataview}
 

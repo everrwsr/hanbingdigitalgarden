@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"quickshare-date":"N/A","quickshare-url":"Removed","dg-publish":true,"dg-home":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -24,25 +24,24 @@
 
 
 
-
-
-
 ## Recently article
 
-| File                                                                                                                            | Last Modified            |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[00inbox/YuqueExport/学习笔记/考公的资料备份和介绍——为一个犹豫的朋友啦\|考公的资料备份和介绍——为一个犹豫的朋友啦]]                                                    | 12:06 PM - July 13, 2024 |
-| [[Home\|Home]]                                                                                                               | 11:13 AM - July 13, 2024 |
-| [[00inbox/jianyue/计算机专业想进国企必看手册，全文牛客网\|计算机专业想进国企必看手册，全文牛客网]]                                                                 | 11:09 AM - July 13, 2024 |
-| [[05notes/写在上岸以后\|写在上岸以后]]                                                                                                   | 11:05 AM - July 13, 2024 |
-| [[02dev/obsidian digital garden 插件无法删除图片解决方法\|obsidian digital garden 插件无法删除图片解决方法]]                                         | 10:46 AM - July 13, 2024 |
-| [[02dev/vscode直接新建项目插件\|vscode直接新建项目插件]]                                                                                     | 10:45 AM - July 13, 2024 |
-| [[Excalidraw/Drawing 2024-07-13 10.20.08.excalidraw\|Drawing 2024-07-13 10.20.08.excalidraw]]                                | 10:21 AM - July 13, 2024 |
-| [[05notes/陕西保密局情况概况\|陕西保密局情况概况]]                                                                                             | 10:14 AM - July 13, 2024 |
-| [[00inbox/jianyue/考公的资料备份和介绍——为一个犹豫的朋友啦\|考公的资料备份和介绍——为一个犹豫的朋友啦]]                                                             | 12:48 PM - July 11, 2024 |
-| [[00inbox/jianyue/Pycharm Debug(断点调试) 超详细攻略_pycharm 断点调试怎么用 - CSDN 博客\|Pycharm Debug(断点调试) 超详细攻略_pycharm 断点调试怎么用 - CSDN 博客]] | 5:48 PM - June 29, 2024  |
+| File                                                                                                                                                                                                                                                                                                                           | Last Modified                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+| [[05notes/github-recovery-codes\|github-recovery-codes]]                                                                                                                                                                                                                                                                    | 11:24 AM - September 22, 2024 |
+| [[00inbox/weread/文学/橘子不是唯一的水果\|橘子不是唯一的水果]]                                                                                                                                                                                                                                                                                  | 8:59 AM - September 22, 2024  |
+| [[00inbox/weread/未分类/橘子不是唯一的水果\|橘子不是唯一的水果]]                                                                                                                                                                                                                                                                                 | 8:59 AM - September 22, 2024  |
+| [[00inbox/weread/未分类/%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%80%A7%E7%A9%B6%E6%9E%81%E8%BF%9B%E5%8C%96%E6%89%8B%E5%86%8C_%E7%AC%AC%E4%B8%89%E7%89%88%E6%97%A0%E5%AF%86%E7%A0%81\|%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%80%A7%E7%A9%B6%E6%9E%81%E8%BF%9B%E5%8C%96%E6%89%8B%E5%86%8C_%E7%AC%AC%E4%B8%89%E7%89%88%E6%97%A0%E5%AF%86%E7%A0%81]] | 8:59 AM - September 22, 2024  |
+| [[00inbox/weread/个人成长/我的第一本人生规划手册\|我的第一本人生规划手册]]                                                                                                                                                                                                                                                                            | 8:59 AM - September 22, 2024  |
+| [[00inbox/weread/个人成长/从零开始学公文写作\|从零开始学公文写作]]                                                                                                                                                                                                                                                                                | 8:59 AM - September 22, 2024  |
+| [[00inbox/weread/个人成长/秘书工作手记（套装共3册）\|秘书工作手记（套装共3册）]]                                                                                                                                                                                                                                                                        | 8:59 AM - September 22, 2024  |
+| [[00inbox/weread/未分类/参谋助手论：为首长服务的艺术 （《南方周末》专版推荐，官场潜规则原生态实录，秒杀一切官场职场小说的 秘传心法+实操技法。） (后浪)\|参谋助手论：为首长服务的艺术 （《南方周末》专版推荐，官场潜规则原生态实录，秒杀一切官场职场小说的 秘传心法+实操技法。） (后浪)]]                                                                                                                                                               | 8:59 AM - September 22, 2024  |
+| [[00inbox/weread/心理/人生十二法则\|人生十二法则]]                                                                                                                                                                                                                                                                                        | 8:59 AM - September 22, 2024  |
+| [[00inbox/weread/精品小说/沧浪之水\|沧浪之水]]                                                                                                                                                                                                                                                                                          | 8:58 AM - September 22, 2024  |
 
 { .block-language-dataview}
+
+
 
 
 ## 笔记

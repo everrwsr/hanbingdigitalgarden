@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05notes/永久笔记/quotes收集发人深省的话/","dgPassFrontmatter":true,"noteIcon":""}
+{"tags":[],"dg-publish":true,"title":"quotes收集发人深省的话","date created":"星期五, 一月 5日 2024, 8:18:00 晚上","date modified":"星期五, 四月 4日 2025, 8:35:39 晚上","permalink":"/05notes/永久笔记/quotes收集发人深省的话/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 > 坚持不是从未放弃，而是现在还在做
